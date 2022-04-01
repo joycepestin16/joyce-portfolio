@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.name-heading,.description-heading{
+    text-align: start;
+    padding-top: 100px;
+    font-family: 'Poppins', sans-serif;
+}
+
+h2.description{
+    padding-top: 1rem;
+    color: #595959;
+    font-size: 50px;
+    animation-name: moveUp;
+    animation-duration: 7s;
+    animation-iteration-count: infinite;
+    
+}
+
+h1{
+    padding-top: 1rem;
+    color: black;
+    font-size: 80px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.title{
+    animation-name: moveRight;
+    animation-duration: 0.7s;
+}
+
+.title1{
+    animation-name: moveLeft;
+    animation-duration: 0.7s;
+}
+
+.title2{
+    animation-name: moveUp;
+    animation-duration: 0.7s;
+}
+
+
+
+@keyframes moveRight {
+    0% {
+        opacity: 0;
+        transform: translateX(100px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translate(0);
+    }
+}
+
+@keyframes moveLeft {
+    0% {
+        opacity: 0;
+        transform: translateX(-150px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translate(0);
+    }
+    
+}
+
+@keyframes moveUp {
+    0% {
+        opacity: 0;
+        transform: translateY(50px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translate(0);
+    }
+    
+}
+
