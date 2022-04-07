@@ -11,4 +11,13 @@ export let projects = [{
     title: 'ESCOLARIO',
     description: 'An Online Publication System for Becarios de Santo Tomas (Sole Thomasian Scholars Association of the University of Santo Tomas)',
     tools: 'Developed using React JS and Firebase as backend.',
-}];
+}, {
+    title: 'ReactJS - CSS',
+    description: 'An Online Publication System for Becarios de Santo Tomas (Sole Thomasian Scholars Association of the University of Santo Tomas)',
+    tools: 'Developed using React JS and Firebase as backend.',
+},  {
+    title: 'Node JS',
+    description: 'An Online Publication System for Becarios de Santo Tomas (Sole Thomasian Scholars Association of the University of Santo Tomas)',
+    tools: 'Developed using React JS and Firebase as backend.',
+}
+];

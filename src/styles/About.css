@@ -3,3 +3,28 @@
     border: 100px;
     color: black;
 }
+
+p{
+    text-align: justify;
+}
+
+img{
+    width: 350px;
+    height: auto;
+    position: relative;
+    margin-left: 100px;
+}
+
+@media (max-width: 600px) {
+    img {
+        width: 250px;
+        height: auto;
+        margin-left: 0;
+    }
+    
+}
+
+.work-paragraph{
+    margin-top: 90px;
+    color: #666666;
+}

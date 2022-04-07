@@ -22,7 +22,6 @@ const Work = () => {
 
                                 <p className='tools-text'>{project.tools}</p>
                             </div>
-
                             <div className='col'>
                                 <div className='wrapper-modal'>
                                     <ModalCard
