@@ -1,4 +1,6 @@
-
+.container{
+   justify-items: center;
+}
 .row{
     border: 100px;
     color: black;
@@ -15,7 +17,7 @@ img{
     margin-left: 100px;
 }
 
-@media (max-width: 600px) {
+@media (min-width: 280px){
     img {
         width: 250px;
         height: auto;
@@ -24,7 +26,17 @@ img{
     
 }
 
+@media (max-width: 1505px) {
+    img {
+        width: 400px;
+        margin: 20px;
+    }
+    
+}
+
+
 .work-paragraph{
     margin-top: 90px;
     color: #666666;
 }
+

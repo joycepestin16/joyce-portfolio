@@ -1,0 +1,25 @@
+img.icons{
+    width: 50px;
+    height: auto;
+   
+    
+}
+
+.skills-icon {
+  background-color: #EEF0F2;
+  border-radius: 50px;
+  box-shadow: 2px 1px #DADDD8;
+}
+
+.skills-icon:hover{
+    background-color: white;
+    
+}
+
+h6.skills-title{
+    text-decoration: underline;
+}
+
+.skills-wrapper{
+    padding-bottom: 50px;
+}

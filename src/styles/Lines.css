@@ -1,5 +1,6 @@
-.container{
-    padding: 100px;
+.line-wrapper{
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
 
 .lines{

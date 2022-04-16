@@ -1,10 +1,12 @@
 import logo from './logo.svg';
-import './App.css';
 import Navbar from './components/Navbar';
 import Hero from './pages/Hero';
 import Work from './pages/Work';
 import { Routes, Route, Link, BrowserRouter, Navigate } from "react-router-dom";
 import About from './pages/About';
+import Skills from './pages/Skills';
+import Footer from './pages/Footer';
+import ContactForm from './components/ContactForm';
 
 function App() {
   return (
@@ -24,6 +26,9 @@ function App() {
       <Hero/>
       <Work/>
       <About/>
+      <Skills/>
+      <Footer/>
+      <ContactForm/>
 
     </>
 

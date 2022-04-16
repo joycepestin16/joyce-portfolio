@@ -9,7 +9,7 @@ import Line from '../components/Line'
 const Work = () => {
     console.log(projects)
     return (
-        <div className='container' id='work'>
+        <div className='container work-wrapper' id='work'>
             {
                 projects.map((project, index) => (
                     <>
@@ -31,13 +31,14 @@ const Work = () => {
                                         tools={project.tools}
                                     />
                                 </div>
-
+                                
                             </div>
-                            <Line/>
+                         
 
 
 
                         </div>
+                        <Line/>
 
                     </>
 
