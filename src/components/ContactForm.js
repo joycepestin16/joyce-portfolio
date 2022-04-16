@@ -27,6 +27,11 @@ function ContactForm() {
           
       };
 
+      //hide result
+      setTimeout(() => {
+         showResult(false) 
+      }, 5000);
+
     return (
         <>
             {/* <!-- Modal --> */}
