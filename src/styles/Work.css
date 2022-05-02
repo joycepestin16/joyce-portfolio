@@ -18,11 +18,17 @@ p {
 
 .wrapper-modal{
     background-color: #DADDD8;
-    height: 80%;
+    height: 100%;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-radius: 10px;
+
 }
 
 .work-wrapper{
     padding-left: 50px;
     padding-right: 50px;
+ 
 }
+
+
 

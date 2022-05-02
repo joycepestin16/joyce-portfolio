@@ -1,0 +1,32 @@
+footer{
+    margin-top: 100px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+a.nav-link{
+    color: black;
+    
+    
+ 
+}
+
+.footer{
+    background-color: white;
+    
+}
+
+.icon{
+    width: 30px;
+    height: 30px;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+}
+
+button{
+    border: 1px solid #C4C4C4;
+
+}
+
+

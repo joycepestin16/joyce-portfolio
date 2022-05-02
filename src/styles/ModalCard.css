@@ -1,0 +1,60 @@
+img.img-project{
+    width: 400px;
+    height: auto;
+
+    
+}
+
+.project-picture{
+    justify-content: center;
+    text-align: center;
+}
+
+.proj-title{
+    font-family: 'Poppins',sans-serif;
+    font-size: 20px;
+    color: black
+}
+
+.proj-title:hover{
+    color: gray;
+}
+
+.heading{
+    
+    font-weight: bold;
+    font-family: 'Poppins',sans-serif;
+}
+
+.title-description{
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 16px;
+    align-items: center;
+    justify-content: center;
+}
+
+.content{
+
+    align-items: center;
+    justify-content: center;
+    background-color: #EEF0F2;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+}
+
+.launch-button{
+    
+    position: absolute;
+    top: 40%;
+    bottom: auto;
+}
+
+.button-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+
+

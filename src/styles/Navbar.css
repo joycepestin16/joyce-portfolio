@@ -5,8 +5,29 @@ a.navbar-brand{
     font-weight: bold;
 }
 
+.navHeader{
+    color: #564130;
+}
+
+a.nav-heading{
+    font-weight: 500;
+    color: #ccc0ac;  
+}
+
+a{
+    color: #ccc0ac;
+}
+
+.nav-heading{
+    color: #ccc0ac;
+}
+
+
+.navbrand{
+    color: #ccc0ac;
+}
 .navbar{
-    background-color: #FCFAF0;
+    background-color: #e4e3e3
 }
 
 

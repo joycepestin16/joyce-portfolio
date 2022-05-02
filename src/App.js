@@ -11,7 +11,7 @@ import ContactForm from './components/ContactForm';
 function App() {
   return (
     <>
-     {/*  <BrowserRouter basename={process.env.PUBLIC_URL}>
+    {/*  <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Routes>
           <Route path="/" element={<Navbar />}>
 
@@ -22,6 +22,7 @@ function App() {
           </Route>
         </Routes>
       </BrowserRouter> */}
+      
       <Navbar/>
       <Hero/>
       <Work/>

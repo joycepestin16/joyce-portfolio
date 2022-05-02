@@ -13,30 +13,40 @@ p{
 img{
     width: 350px;
     height: auto;
-    position: relative;
-    margin-left: 100px;
+    /* position: relative;
+    margin-left: 100px; */
 }
 
-@media (min-width: 280px){
+.about-wrapper{
+    /* background-image: url('../img/bg.jpg');
+    background-size: cover;
+    width: 100%; */
+}
+
+/* @media  screen and (min-width: 280px){
     img {
-        width: 250px;
+        width: 200px;
         height: auto;
-        margin-left: 0;
+        
     }
     
 }
 
-@media (max-width: 1505px) {
+@media screen and (max-width: 1505px) {
     img {
         width: 400px;
         margin: 20px;
     }
     
-}
+} */
 
 
 .work-paragraph{
     margin-top: 90px;
     color: #666666;
+}
+
+.inner-content{
+    
 }
 
