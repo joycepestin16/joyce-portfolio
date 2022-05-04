@@ -36,7 +36,7 @@ export let projects = [{
       
       ],
     bg: require('../img/escolario.jpg'),
-    bgColor: "#ebebeb",
+    bgColor: "#e3e2ea",
 }, {
     title: 'In between Game',
     description: 'A JavaScript program that simulates an “In-Between” game.',

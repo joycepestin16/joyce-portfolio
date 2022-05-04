@@ -57,9 +57,9 @@ const ModalCard = ({ title, description, tools, imgProj, bg }) => {
                                 return (
                                     <Carousel.Item>
                                         <img
-                                            className="img-fluid d-block w-100"
+                                            className="img-fluid d-block w-100 img-proj"
                                             src={img}
-                                            alt="Second slide"
+                                            alt="slide"
                                         />
                                     </Carousel.Item>
                                 )

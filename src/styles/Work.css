@@ -27,7 +27,8 @@ img.cover-photo{
     display: flex;
     text-align: center;
     align-items: center;
-    justify-content: center; 
+    justify-content: center;
+    border-radius: 10px;
     
    
 }

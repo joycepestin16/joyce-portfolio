@@ -51,6 +51,10 @@ const Footer = () => {
                 <a href='https://twitter.com/joycekrungy' target="_blank" className='links'>
                   <img src={require('../img/twitter-sign.png')} className='icon' />
                 </a>
+
+                <a href='https://www.instagram.com/joycekrungy/' target="_blank" className='links'>
+                  <img src={require('../img/instagram.png')} className='icon' />
+                </a>
               </div>
             </div>
 
