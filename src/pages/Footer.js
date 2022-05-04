@@ -3,7 +3,7 @@ import '../styles/Footer.css'
 import { MdTrendingFlat } from "react-icons/md";
 import { Button } from 'react-bootstrap';
 import { IconContext } from 'react-icons';
-import CV from '../files/PESTIN_JOYCEANN_V_RESUME.pdf';
+import CV from '../files/PESTIN_CV.pdf';
 
 
 const Footer = () => {
@@ -14,7 +14,7 @@ const Footer = () => {
           <div className='row '>
             <div className='col justify-content-center'>
 
-              <h4 className='d-flex justify-content-center'>I am thrilled to work with you</h4>
+              <h4 className='d-flex justify-content-center' data-aos="slide-down" >I am thrilled to work with you</h4>
               <div className='d-flex justify-content-center '>
                 <button type="button" className="btn btn-light" data-bs-toggle="modal" data-bs-target="#exampleModal">
                   <MdTrendingFlat />
@@ -24,13 +24,13 @@ const Footer = () => {
 
             </div>
             <div className='col justify-content-center'>
-              <h4 className='col d-flex justify-content-center'>joycepestin@gmail.com</h4>
+              <h4 className='col d-flex justify-content-center'  data-aos="slide-down">joycepestin@gmail.com</h4>
               <div className='col d-flex justify-content-center '>
                 <Button
                   variant="light"
                   className='btn btn-light'
                   href={CV}
-                  download="Pestin, Joyce Ann V. .pdf">
+                  download="PESTIN_CV.pdf">
                   view my resume</Button>{' '}
               </div>
             </div>

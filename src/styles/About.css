@@ -18,10 +18,12 @@ img{
 }
 
 .about-wrapper{
-    /* background-image: url('../img/bg.jpg');
-    background-size: cover;
-    width: 100%; */
+    
+    align-items: center;
+    justify-content: center;
 }
+
+
 
 /* @media  screen and (min-width: 280px){
     img {
@@ -46,7 +48,4 @@ img{
     color: #666666;
 }
 
-.inner-content{
-    
-}
 

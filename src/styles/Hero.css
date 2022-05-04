@@ -5,6 +5,10 @@
     width: 100%;
     
 }
+
+.hero-wrapper{
+    padding-top: 6rem;
+}
 .name-heading,.description-heading{
     text-align: start;
     padding-top: 100px;

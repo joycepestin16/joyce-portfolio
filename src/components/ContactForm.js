@@ -84,6 +84,7 @@ function ContactForm() {
                                             placeholder='Ex. 091234578'
                                             name='phone'
                                             required
+                                            maxLength='11'
                                         /></div>
                                     </div>
 

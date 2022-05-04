@@ -18,8 +18,8 @@ const Hero = () => {
 
     return (
         <div className="bg-wrapper">
-            <div className='container hero-wrapper' id="#hero">
-                <div className="row">
+            <div className='container' id="#hero">
+                <div className="row hero-wrapper">
                     <div className="col name-heading">
                         <h1 className='joyce-title'>
                             <div className='heading-title1'>{state.title}</div>

@@ -5,9 +5,6 @@ a.navbar-brand{
     font-weight: bold;
 }
 
-.navHeader{
-    color: #564130;
-}
 
 a.nav-heading{
     font-weight: 500;
@@ -27,7 +24,11 @@ a{
     color: #ccc0ac;
 }
 .navbar{
-    background-color: #e4e3e3
+    background: linear-gradient(#f7f6f5);
+    background-color: #eeeded;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    box-shadow: rgba(151, 150, 150, 0.45) 0px 25px 20px -20px;
 }
 
 

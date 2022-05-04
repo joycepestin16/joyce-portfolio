@@ -21,8 +21,8 @@ img.img-project{
 }
 
 .heading{
-    
-    font-weight: bold;
+
+    padding: 20px;
     font-family: 'Poppins',sans-serif;
 }
 
@@ -31,6 +31,16 @@ img.img-project{
     font-size: 16px;
     align-items: center;
     justify-content: center;
+}
+
+.label-title{
+    font-weight: bold;
+    color: #515254;
+}
+
+.description-wrapper{
+    background-image: url('../img/plant3.jpg');
+    background-size: cover;
 }
 
 .content{
@@ -46,6 +56,13 @@ img.img-project{
     position: absolute;
     top: 40%;
     bottom: auto;
+    font-size: 14px;
+    font-family: 'Poppins';
+}
+
+.launch-button:hover{
+    background-color: #515254;
+    color: white;
 }
 
 .button-wrapper{
@@ -53,7 +70,9 @@ img.img-project{
     justify-content: center;
     align-items: center;
     text-align: center;
+    background-color: #515254;
 }
+
 
 
 
