@@ -85,12 +85,9 @@ const ModalCard = ({ title, description, tools, imgProj, bg }) => {
                 </div>
 
                 <Modal.Footer>
-                    <Button variant="secondary" onClick={handleClose}>
-                        Close
+                    <Button className="close-btn"variant="secondary" onClick={handleClose}>
+                        <span className="text">Close</span><span>Close</span>
                     </Button>
-                    {/* <Button variant="primary" onClick={handleClose}>
-                            Save Changes
-                        </Button> */}
                 </Modal.Footer>
             </Modal>
         </div>

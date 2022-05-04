@@ -35,7 +35,7 @@ export let projects = [{
         require('../assets/escolario3.png')
       
       ],
-    bg: require('../img/plant4.jpg'),
+    bg: require('../img/escolario.jpg'),
     bgColor: "#ebebeb",
 }, {
     title: 'In between Game',
