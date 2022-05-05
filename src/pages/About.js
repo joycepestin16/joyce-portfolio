@@ -14,8 +14,8 @@ const About = () => {
                     <div className='row justify-content-center'>
                         <div className='col-sm'>
                             <div className='inner-content'>
-                                <h1 data-aos="slide-left">I'm Joyce Ann Pestin</h1>
-                                <h2 data-aos="slide-left">An Aspiring Front End or Full-Stack Developer.</h2>
+                                <h1 className="about-heading"data-aos="slide-left">I'm Joyce Ann Pestin</h1>
+                                <h2 className="about-heading2 "data-aos="slide-left">An Aspiring Front End or Full-Stack Developer.</h2>
                                 <p className='work-paragraph' data-aos="slide-up">
                                     My work is mainly focused on creating and developing websites and mobile application. 
                                     I like creating simple and classy websites, i also like creating pubmats, exploring different colors and also giving importance to the user experience before deploying it to the cloud.</p>

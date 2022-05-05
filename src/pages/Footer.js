@@ -14,7 +14,7 @@ const Footer = () => {
           <div className='row '>
             <div className='col justify-content-center'>
 
-              <h4 className='d-flex justify-content-center' data-aos="slide-down" >I am thrilled to work with you</h4>
+              <h4 className='d-flex justify-content-center footer-heading' data-aos="slide-down" >I am thrilled to work with you</h4>
               <div className='d-flex justify-content-center '>
                 <button type="button" className="btn btn-light" data-bs-toggle="modal" data-bs-target="#exampleModal">
                   <MdTrendingFlat />
@@ -24,7 +24,7 @@ const Footer = () => {
 
             </div>
             <div className='col justify-content-center'>
-              <h4 className='col d-flex justify-content-center'  data-aos="slide-down">joycepestin@gmail.com</h4>
+              <h4 className='col d-flex justify-content-center footer-heading'  data-aos="slide-down">joycepestin@gmail.com</h4>
               <div className='col d-flex justify-content-center '>
                 <Button
                   variant="light"

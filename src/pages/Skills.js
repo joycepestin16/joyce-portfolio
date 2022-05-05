@@ -46,7 +46,7 @@ const Skills = () => {
                     </div>
 
                     <div className="col">
-                        <div>
+                        <div className="tools-desc">
                             <p>MS Word, PPT, Excel, VSCODE, Eclipse, Intellij, Figma, Canva, Adobe Photoshop, Adobe Illustrator, Adobe XD, Adobe Indesign.</p>
                         </div>
                     </div>

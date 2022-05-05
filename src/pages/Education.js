@@ -36,29 +36,32 @@ const Education = () => {
 
             <div className="row">
                 <div className="col-sm d-flex justify-content-center">
+
                     <div className="education-1">
                         <h6 className="org-heading">Organizations</h6>
                     </div>
                 </div>
-                <div className="col-sm">
+                <div className="col-sm org-wrapper">
+                    <div className="organization-4">
+                        <h6>Becarios de  Santo Tomas | 2018-2022</h6>
+                        Executive Associate
+                    </div>
                     <div className="organization-1">
                         <h6>UST Cisco Gateway Academy - CICS | 2020 - 2021</h6>
                         Vice President for Audit and Logistics
+                    </div>
+
+                    <div className="organization-3">
+                        <h6>UST Cisco Gateway Academy - CICS | 2020 - 2021</h6>
+                        Executive Associate
+
                     </div>
                     <div className="organization-2">
                         <h6>UST Cisco Gateway Academy - CICS | 2019 - 2020</h6>
                         Vice President for Creatives
 
                     </div>
-                    <div className="organization-3">
-                        <h6>UST Cisco Gateway Academy - CICS | 2020 - 2021</h6>
-                        Executive Associate
 
-                    </div>
-                    <div className="organization-4">
-                        <h6>Becarios de  Santo Tomas | 2018-2022</h6>
-                        Executive Associate
-                    </div>
 
                 </div>
 
@@ -70,12 +73,12 @@ const Education = () => {
                         <h6 className="org-heading">Career Summary</h6>
                     </div>
                 </div>
-                <div className="col-sm">
+                <div className="col-sm career-wrapper">
                     <div className="organization-1">
                         <h6>TELUS International Philippines Inc. | 2022 - Present</h6>
                         Application Developer and Support Intern
                     </div>
-                    
+
 
                 </div>
 

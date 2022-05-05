@@ -37,11 +37,37 @@ img.joyce-pic{
     rgb(255, 255, 255) 20px -20px 0px -3px, 
     rgb(150, 150, 150) 20px -20px, 
     rgb(255, 255, 255) 30px -30px 0px -3px, 
-    rgb(162, 162, 162) 30px -30px, 
-    rgb(255, 255, 255) 40px -40px 0px -3px, 
-    rgb(115, 115, 115) 40px -40px;
+    rgb(162, 162, 162) 30px -30px; 
+
 
     border-radius: 10px;
+}
+
+@media (min-width: 200px) and (max-width: 640px){
+    h1.about-heading{
+        font-size: 40px;
+        margin-top: auto;
+        margin-bottom: 1rem;
+        align-items: center;
+        justify-content: center;
+        padding-top: 0px
+    }
+
+    h2.about-heading2{
+        font-size: 20px;
+    }
+
+    p.work-paragraph{
+        font-size: 16px;
+        margin-top: auto;
+        margin-bottom: 4rem;   
+    }
+}
+
+@media (min-width: 620px) and (max-width: 940px){
+    img.joyce-pic{
+        margin-top: 4rem;
+    }
 }
 
 

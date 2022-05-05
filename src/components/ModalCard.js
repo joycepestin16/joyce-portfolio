@@ -24,7 +24,7 @@ const ModalCard = ({ title, description, tools, imgProj, bg }) => {
                 <Button
                     variant="light"
                     onClick={handleShow}
-                    className="btn launch-button">
+                    className="btn btn-sm launch-button">
                     Launch Project
                 </Button>
             </div>
