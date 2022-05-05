@@ -2,6 +2,7 @@ import React from 'react'
 import '../styles/Navbar.css';
 import { Outlet, Link } from "react-router-dom";
 
+
 const Navbar = () => {
   return (
     <>
@@ -13,9 +14,9 @@ const Navbar = () => {
           </button>
           <div className="collapse navbar-collapse offset-lg-7" id="navbarNavAltMarkup">
             <div className="navbar-nav">
-              <a className="nav-link nav-heading" href="#work">Projects</a>
-              <a className="nav-link nav-heading" href="#about">About</a>
-              <a className="nav-link nav-heading" href="#contact">Contact</a>
+              <a className="nav-link nav-heading offset-lg-2" href="#work">Projects</a>
+              <a className="nav-link nav-heading offset-lg-2" href="#about">About</a>
+              <a className="nav-link nav-heading offset-lg-2" href="#contact">Contact</a>
             
             </div>
           </div>

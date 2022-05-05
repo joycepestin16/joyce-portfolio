@@ -4,6 +4,9 @@ import Line from '../components/Line'
 import { useEffect } from 'react'
 import Aos from 'aos';
 import "aos/dist/aos.css"
+import ScrollToTop from "react-scroll-to-top";
+
+
 const Skills = () => {
     useEffect(() => {
         Aos.init({ duration: 2000 })
@@ -11,6 +14,7 @@ const Skills = () => {
     return (
         <>
             <div className="container">
+            <ScrollToTop smooth />
                 <div className="row">
                     <div className="col">
                         <h6 className="skills-title offset-sm-1">Skills</h6>

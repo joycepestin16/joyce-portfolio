@@ -4,12 +4,15 @@ import { MdTrendingFlat } from "react-icons/md";
 import { Button } from 'react-bootstrap';
 import { IconContext } from 'react-icons';
 import CV from '../files/PESTIN_CV.pdf';
+import ScrollToTop from "react-scroll-to-top";
 
 
 const Footer = () => {
   return (
+
     <IconContext.Provider value={{ size: "2em" }}>
       <>
+        <ScrollToTop smooth />
         <div className='container footer-wrapper' id='contact'>
           <div className='row '>
             <div className='col justify-content-center'>
@@ -24,7 +27,7 @@ const Footer = () => {
 
             </div>
             <div className='col justify-content-center'>
-              <h4 className='col d-flex justify-content-center footer-heading'  data-aos="slide-down">joycepestin@gmail.com</h4>
+              <h4 className='col d-flex justify-content-center footer-heading' data-aos="slide-down">joycepestin@gmail.com</h4>
               <div className='col d-flex justify-content-center '>
                 <Button
                   variant="light"

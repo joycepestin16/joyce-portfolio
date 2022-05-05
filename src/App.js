@@ -7,6 +7,7 @@ import About from './pages/About';
 import Skills from './pages/Skills';
 import Footer from './pages/Footer';
 import ContactForm from './components/ContactForm';
+import ScrollToTop from "react-scroll-to-top";
 
 function App() {
   return (
@@ -22,7 +23,7 @@ function App() {
           </Route>
         </Routes>
       </BrowserRouter> */}
-      
+      <ScrollToTop smooth/>
       <Navbar/>
       <Hero/>
       <Work/>

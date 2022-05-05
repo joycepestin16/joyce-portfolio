@@ -29,6 +29,11 @@ a{
     border-bottom-right-radius: 10px;
     border-bottom-left-radius: 10px;
     box-shadow: rgba(151, 150, 150, 0.45) 0px 25px 20px -20px;
+    top: 0;
+    z-index: 999;
+
 }
+
+
 
 
