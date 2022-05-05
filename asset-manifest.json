@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/joyce-portfolio/static/css/main.75ba9731.css",
-    "main.js": "/joyce-portfolio/static/js/main.758f9b34.js",
+    "main.css": "/joyce-portfolio/static/css/main.e11a04ab.css",
+    "main.js": "/joyce-portfolio/static/js/main.d7f74364.js",
     "static/js/787.2fa7ca05.chunk.js": "/joyce-portfolio/static/js/787.2fa7ca05.chunk.js",
     "static/media/joyce-gradpic.jpg": "/joyce-portfolio/static/media/joyce-gradpic.8083fde388141a36212f.jpg",
     "static/media/y2k.png": "/joyce-portfolio/static/media/y2k.0df5a3de8f0e376a5b5e.png",
@@ -34,12 +34,12 @@
     "static/media/css-3.png": "/joyce-portfolio/static/media/css-3.7654ce00c5ac2e76e015.png",
     "static/media/logo.svg": "/joyce-portfolio/static/media/logo.fb6fd18f79cdea878bde968b2b0c032c.svg",
     "index.html": "/joyce-portfolio/index.html",
-    "main.75ba9731.css.map": "/joyce-portfolio/static/css/main.75ba9731.css.map",
-    "main.758f9b34.js.map": "/joyce-portfolio/static/js/main.758f9b34.js.map",
+    "main.e11a04ab.css.map": "/joyce-portfolio/static/css/main.e11a04ab.css.map",
+    "main.d7f74364.js.map": "/joyce-portfolio/static/js/main.d7f74364.js.map",
     "787.2fa7ca05.chunk.js.map": "/joyce-portfolio/static/js/787.2fa7ca05.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.75ba9731.css",
-    "static/js/main.758f9b34.js"
+    "static/css/main.e11a04ab.css",
+    "static/js/main.d7f74364.js"
   ]
 }
