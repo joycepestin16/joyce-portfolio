@@ -26,14 +26,14 @@ const Work = () => {
                         <>
                             <div className='row d-flex flex-row'>
 
-                                <div className="col">
+                                <div className="col-lg-6 col-sm-12 pxy-3">
                                     <h6>0{index + 1}/{project.title}</h6>
 
                                     <p>{project.description}</p>
 
                                     <p className='tools-text'>{project.tools}</p>
                                 </div>
-                                <div className='col' data-aos="slide-right">
+                                <div className='col-lg-6 col-sm-12 pxy-3' data-aos="slide-right">
                                     <div className='wrapper-modal' style={{backgroundColor: project.bgColor}}>
                                         <img className='img-fluid cover-photo' src={project.bg} ></img>
 
