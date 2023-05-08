@@ -32,15 +32,15 @@ const Hero = () => {
                                 loop: true,
                                 delay: 40,
                                 strings: [
-                                    "A 4th year student from",
-                                    "The University of Santo Tomas"
+                                    "Born in 2000",
+                                    "Manila, Philippines"
                                 ]
                             }} />
                         </div>
 
                     </div>
                     <div className="col description-heading">
-                        <h2 className='description'>A senior-year IT student aspiring to be a full-stack developer.
+                        <h2 className='description'>An aspiring full-stack developer, and continue to explore more
                         </h2>
                     </div>
                 </div>

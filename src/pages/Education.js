@@ -52,13 +52,14 @@ const Education = () => {
                     </div>
 
                     <div className="organization-3">
-                        <h6>UST Cisco Gateway Academy - CICS | 2020 - 2021</h6>
-                        Executive Associate
+                    <h6>UST Cisco Gateway Academy - CICS | 2019 - 2020</h6>
+                        Vice President for Creatives
 
                     </div>
                     <div className="organization-2">
-                        <h6>UST Cisco Gateway Academy - CICS | 2019 - 2020</h6>
-                        Vice President for Creatives
+                        
+                        <h6>UST Cisco Gateway Academy - CICS | 2020 - 2021</h6>
+                        Executive Associate
 
                     </div>
 
@@ -76,7 +77,7 @@ const Education = () => {
                 <div className="col-sm career-wrapper">
                     <div className="organization-1">
                         <h6>TELUS International Philippines Inc. | 2022 - Present</h6>
-                        Application Developer and Support Intern
+                        Associate Application Developer | Content Manager
                     </div>
 
 
