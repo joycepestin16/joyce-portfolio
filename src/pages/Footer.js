@@ -33,7 +33,7 @@ const Footer = () => {
                   variant="light"
                   className='btn btn-light'
                   href={CV}
-                  download="PESTIN_JOYCE_ANN_CV.pdf">
+                  download="PESTIN_JOYCE_ANN_RESUME.pdf">
                   view my resume</Button>{' '}
               </div>
             </div>
