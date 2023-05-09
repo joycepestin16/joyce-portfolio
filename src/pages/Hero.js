@@ -40,7 +40,7 @@ const Hero = () => {
 
                     </div>
                     <div className="col description-heading">
-                        <h2 className='description'>An aspiring full-stack developer, and would like to explore different technologies and tools in the IT industry
+                        <h2 className='description'>An aspiring Full-Stack Developer willing to explore various technologies and tools in the IT industry
                         </h2>
                     </div>
                 </div>

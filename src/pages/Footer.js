@@ -3,8 +3,9 @@ import '../styles/Footer.css'
 import { MdTrendingFlat } from "react-icons/md";
 import { Button } from 'react-bootstrap';
 import { IconContext } from 'react-icons';
-import CV from '../files/PESTIN_CV.pdf';
+import CV from '../files/PESTIN_JOYCE_ANN_RESUME.pdf';
 import ScrollToTop from "react-scroll-to-top";
+
 
 
 const Footer = () => {
