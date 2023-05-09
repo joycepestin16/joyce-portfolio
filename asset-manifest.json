@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/joyce-portfolio/static/css/main.1ae62d24.css",
-    "main.js": "/joyce-portfolio/static/js/main.b9bdb44d.js",
+    "main.js": "/joyce-portfolio/static/js/main.0833c046.js",
     "static/js/787.2fa7ca05.chunk.js": "/joyce-portfolio/static/js/787.2fa7ca05.chunk.js",
     "static/media/joyce-gradpic.jpg": "/joyce-portfolio/static/media/joyce-gradpic.8083fde388141a36212f.jpg",
     "static/media/y2k.png": "/joyce-portfolio/static/media/y2k.0df5a3de8f0e376a5b5e.png",
@@ -35,11 +35,11 @@
     "static/media/logo.svg": "/joyce-portfolio/static/media/logo.fb6fd18f79cdea878bde968b2b0c032c.svg",
     "index.html": "/joyce-portfolio/index.html",
     "main.1ae62d24.css.map": "/joyce-portfolio/static/css/main.1ae62d24.css.map",
-    "main.b9bdb44d.js.map": "/joyce-portfolio/static/js/main.b9bdb44d.js.map",
+    "main.0833c046.js.map": "/joyce-portfolio/static/js/main.0833c046.js.map",
     "787.2fa7ca05.chunk.js.map": "/joyce-portfolio/static/js/787.2fa7ca05.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1ae62d24.css",
-    "static/js/main.b9bdb44d.js"
+    "static/js/main.0833c046.js"
   ]
 }
