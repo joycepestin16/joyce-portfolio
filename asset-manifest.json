@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/joyce-portfolio/static/css/main.1ae62d24.css",
-    "main.js": "/joyce-portfolio/static/js/main.0833c046.js",
+    "main.js": "/joyce-portfolio/static/js/main.3b324434.js",
     "static/js/787.2fa7ca05.chunk.js": "/joyce-portfolio/static/js/787.2fa7ca05.chunk.js",
     "static/media/joyce-gradpic.jpg": "/joyce-portfolio/static/media/joyce-gradpic.8083fde388141a36212f.jpg",
     "static/media/y2k.png": "/joyce-portfolio/static/media/y2k.0df5a3de8f0e376a5b5e.png",
@@ -16,7 +16,6 @@
     "static/media/inbet3.png": "/joyce-portfolio/static/media/inbet3.67a810018471d818e4c2.png",
     "static/media/furcare.jpg": "/joyce-portfolio/static/media/furcare.7c3074425c1c9c5b5350.jpg",
     "static/media/inbetween.jpg": "/joyce-portfolio/static/media/inbetween.8db7d5616e5b1e1f705e.jpg",
-    "static/media/PESTIN_CV.pdf": "/joyce-portfolio/static/media/PESTIN_CV.41ed91f11d2a7504cf01.pdf",
     "static/media/foodverse.png": "/joyce-portfolio/static/media/foodverse.8849f65749196fa31280.png",
     "static/media/foodverse3.png": "/joyce-portfolio/static/media/foodverse3.813f0bf0bcbb7d64d8c4.png",
     "static/media/foodverse2.png": "/joyce-portfolio/static/media/foodverse2.2a0672b37388a095a89b.png",
@@ -24,6 +23,7 @@
     "static/media/furcare2.png": "/joyce-portfolio/static/media/furcare2.11a180cc62ead214978c.png",
     "static/media/y2k2.png": "/joyce-portfolio/static/media/y2k2.fe6f977b91ce805884c7.png",
     "static/media/furcare1.png": "/joyce-portfolio/static/media/furcare1.2363c707d731c40f5836.png",
+    "static/media/PESTIN_JOYCE_ANN_RESUME.pdf": "/joyce-portfolio/static/media/PESTIN_JOYCE_ANN_RESUME.c3986e1d24aff70f90a9.pdf",
     "static/media/escolario3.png": "/joyce-portfolio/static/media/escolario3.4a6a504d1275756d5a35.png",
     "static/media/escolario2.png": "/joyce-portfolio/static/media/escolario2.206a629ebc385d425928.png",
     "static/media/escolario.png": "/joyce-portfolio/static/media/escolario.80cbb293776f0b0a0fea.png",
@@ -35,11 +35,11 @@
     "static/media/logo.svg": "/joyce-portfolio/static/media/logo.fb6fd18f79cdea878bde968b2b0c032c.svg",
     "index.html": "/joyce-portfolio/index.html",
     "main.1ae62d24.css.map": "/joyce-portfolio/static/css/main.1ae62d24.css.map",
-    "main.0833c046.js.map": "/joyce-portfolio/static/js/main.0833c046.js.map",
+    "main.3b324434.js.map": "/joyce-portfolio/static/js/main.3b324434.js.map",
     "787.2fa7ca05.chunk.js.map": "/joyce-portfolio/static/js/787.2fa7ca05.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1ae62d24.css",
-    "static/js/main.0833c046.js"
+    "static/js/main.3b324434.js"
   ]
 }
