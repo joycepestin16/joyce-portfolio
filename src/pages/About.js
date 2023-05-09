@@ -17,8 +17,9 @@ const About = () => {
                                 <h1 className="about-heading"data-aos="slide-left">I'm Joyce Ann Pestin</h1>
                                 <h2 className="about-heading2 "data-aos="slide-left">Front End Developer, UI/UX Designer and A Content Manager</h2>
                                 <p className='work-paragraph' data-aos="slide-up">
-                                    My work is mainly focused on creating and developing websites and mobile application. 
-                                    I like creating simple and classy websites, i also like creating pubmats, exploring different colors and also giving importance to the user experience before deploying it to the cloud.</p>
+                                    My work is mainly focused on creating and developing websites and mobile application. Converting designs into a working web page using Contentful CMS.
+                        
+                                    I also like creating simple and classy websites, creating publication materials, exploring different colors and also giving importance to the user experience before deploying it to the cloud.</p>
 
                             </div>
                         </div>

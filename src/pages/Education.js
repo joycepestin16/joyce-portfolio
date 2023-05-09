@@ -76,8 +76,13 @@ const Education = () => {
                 </div>
                 <div className="col-sm career-wrapper">
                     <div className="organization-1">
-                        <h6>TELUS International Philippines Inc. | 2022 - Present</h6>
+                        <h6>TELUS International Philippines Inc. | 2022 - 2023</h6>
                         Associate Application Developer | Content Manager
+                    </div>
+
+                    <div className="organization-1">
+                        <h6>TELUS International Philippines Inc. | Feb 2022 - May 2022</h6>
+                        Associate Application Developer | Intern
                     </div>
 
 
