@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/joyce-portfolio/static/css/main.1ae62d24.css",
-    "main.js": "/joyce-portfolio/static/js/main.3b324434.js",
+    "main.js": "/joyce-portfolio/static/js/main.4fb7628f.js",
     "static/js/787.2fa7ca05.chunk.js": "/joyce-portfolio/static/js/787.2fa7ca05.chunk.js",
     "static/media/joyce-gradpic.jpg": "/joyce-portfolio/static/media/joyce-gradpic.8083fde388141a36212f.jpg",
     "static/media/y2k.png": "/joyce-portfolio/static/media/y2k.0df5a3de8f0e376a5b5e.png",
@@ -23,7 +23,7 @@
     "static/media/furcare2.png": "/joyce-portfolio/static/media/furcare2.11a180cc62ead214978c.png",
     "static/media/y2k2.png": "/joyce-portfolio/static/media/y2k2.fe6f977b91ce805884c7.png",
     "static/media/furcare1.png": "/joyce-portfolio/static/media/furcare1.2363c707d731c40f5836.png",
-    "static/media/PESTIN_JOYCE_ANN_RESUME.pdf": "/joyce-portfolio/static/media/PESTIN_JOYCE_ANN_RESUME.c3986e1d24aff70f90a9.pdf",
+    "static/media/CV_Pestin_JoyceAnn.pdf": "/joyce-portfolio/static/media/CV_Pestin_JoyceAnn.08669a15d0e9a0820907.pdf",
     "static/media/escolario3.png": "/joyce-portfolio/static/media/escolario3.4a6a504d1275756d5a35.png",
     "static/media/escolario2.png": "/joyce-portfolio/static/media/escolario2.206a629ebc385d425928.png",
     "static/media/escolario.png": "/joyce-portfolio/static/media/escolario.80cbb293776f0b0a0fea.png",
@@ -35,11 +35,11 @@
     "static/media/logo.svg": "/joyce-portfolio/static/media/logo.fb6fd18f79cdea878bde968b2b0c032c.svg",
     "index.html": "/joyce-portfolio/index.html",
     "main.1ae62d24.css.map": "/joyce-portfolio/static/css/main.1ae62d24.css.map",
-    "main.3b324434.js.map": "/joyce-portfolio/static/js/main.3b324434.js.map",
+    "main.4fb7628f.js.map": "/joyce-portfolio/static/js/main.4fb7628f.js.map",
     "787.2fa7ca05.chunk.js.map": "/joyce-portfolio/static/js/787.2fa7ca05.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1ae62d24.css",
-    "static/js/main.3b324434.js"
+    "static/js/main.4fb7628f.js"
   ]
 }
