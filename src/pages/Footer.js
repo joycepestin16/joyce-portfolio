@@ -3,7 +3,7 @@ import "../styles/Footer.css";
 import { MdTrendingFlat } from "react-icons/md";
 import { Button } from "react-bootstrap";
 import { IconContext } from "react-icons";
-import CV from "../files/CV_Pestin_JoyceAnn.pdf";
+import CV from "../files/PESTIN_Joyce_Ann_V_CV.pdf";
 import ScrollToTop from "react-scroll-to-top";
 
 const Footer = () => {
@@ -43,7 +43,7 @@ const Footer = () => {
                   variant="light"
                   className="btn btn-light"
                   href={CV}
-                  download="CV_Pestin, Joyce Ann V..pdf"
+                  download="PESTIN_Joyce_Ann_V_CV.pdf"
                 >
                   view my resume
                 </Button>{" "}
